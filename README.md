@@ -17,10 +17,10 @@ I enjoy Weight-training and Running 💪🏻 👟 <br/>
 
 # 🛠 Skills & Tools
 
-#### Skills <br/>
+### Skills <br/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <br/>
-#### Tools <br/>
+### Tools <br/>
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  
 <br/>
 
