@@ -10,6 +10,10 @@ I enjoy Weight-training and Running 💪🏻 👟 <br/>
 <img src="https://user-images.githubusercontent.com/74251593/161505391-408c7c3b-79ee-4401-b26f-90f95d1f38c3.gif" width="20%" height="20%"/>
 <img src="https://user-images.githubusercontent.com/74251593/161510257-414f4a58-cea5-4249-8b40-3db495d683e3.gif" width="20%" height="20%"/>
 
+### 🌱 Current
+- ⛺️ [iOS 야곰 커리어 스타트 캠프 - 5기 (진행중)](https://github.com/westeastyear/iOS_yagom_careerStater_camp)
+
+
 ### 📨 Contact
 - E-mail: [seo_17@naver.com](seo_17@naver.com)
 <br/>
