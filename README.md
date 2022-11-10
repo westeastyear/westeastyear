@@ -11,7 +11,8 @@ I enjoy Weight-training and Running 💪🏻 👟 <br/>
 <img src="https://user-images.githubusercontent.com/74251593/161510257-414f4a58-cea5-4249-8b40-3db495d683e3.gif" width="20%" height="20%"/>
 
 ### 🌱 Current
-- ⛺️ [iOS 야곰 커리어 스타트 캠프 - 5기 (수료❤️)](https://github.com/westeastyear/iOS_yagom_careerStater_camp)
+- ⛺️ [iOS 야곰 커리어 스타트 캠프 - 5기 (22.02~22.08 수료❤️)](https://github.com/westeastyear/iOS_yagom_careerStater_camp)
+- 💻 [코딩테스트 대비 알고리즘 페관수련중! 😇 (22.09~)](https://github.com/westeastyear/programmers_sandbox)
 
 
 ### 📨 Contact
